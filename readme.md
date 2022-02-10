@@ -4,4 +4,5 @@
 	<p>
 		<a href="https://springhillrobotics.com" target="_blank">💻 Website</a>
 	</p>
+	<h6>📌 Nashville, TN</h6>
 </div>
